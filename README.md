@@ -1,7 +1,8 @@
 ### Hello! This is Bian. 👋
 
-I am a high school junior from California. My skills are
+I am a high school junior from California.
 
-- 🌱 Full-Stack Web App development with MERN stack.
-- ⚡ Information Technology & Computer Engineering.
-- 
+- 🌱 I have experience with full-stack web app development with MERN stack.
+- ⚡ I'm interested in information technology & computer engineering.
+- 🥅 2021 goals: studying more math and science. 
+- ➡️ I'm currently working on building <a href="https://opensourcecollage.com" target="_blank">opensourcecollage.com</a>. 
