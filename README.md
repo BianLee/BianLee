@@ -1,3 +1,1 @@
-Hi I'm Bian, 
-
-Open Source Collage 2 is here! --> https://opensourcecollage.com
+Listen to my debut album 'Commonwealth': https://open.spotify.com/album/6zFnlEXWLDrxIiTPzngVZO?si=UAb_xuKYR36G9ca8bnGjsw
