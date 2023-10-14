@@ -1,4 +1,4 @@
-Data Analyst Intern @ California Air Resources Board
-Analyst Intern @ Vestr
+Data Analyst Intern at California Air Resources Board<br/>
+Analyst Intern at Vestr
 
-B.S. Computer Science and Engineering @ University of California, Davis
+B.S. Computer Science and Engineering at University of California, Davis
