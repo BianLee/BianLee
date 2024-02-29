@@ -3,7 +3,7 @@
 Currently...
 <br/>SWE @ Optimizing.com
 <br/>Data Analyst @ California Air Resources Board
-<br/>Analyst @ Vestr.io.
+<br/>Analyst @ Vestr.io
 
 This summer...
 <br/>Incoming SWE Intern @ Fidelity Investments
