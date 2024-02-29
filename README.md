@@ -1,9 +1,9 @@
 2nd Year CS student at University of California, Davis.
 
 Currently...
-SWE @ Optimizing.com
-Data Analyst @ California Air Resources Board
-Analyst @ Vestr.io.
+<br/>SWE @ Optimizing.com
+<br/>Data Analyst @ California Air Resources Board
+<br/>Analyst @ Vestr.io.
 
-This summer...
-Incoming SWE Intern @ Fidelity Investments
+<br/>This summer...
+<br/>Incoming SWE Intern @ Fidelity Investments
