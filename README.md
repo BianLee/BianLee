@@ -1,4 +1,4 @@
-B.S. Computer Science and Engineering at University of California, Davis
+2nd Year CS student at University of California, Davis.
 
-Data Analyst Intern at California Air Resources Board<br/>
-Analyst Intern at Vestr
+Currently SWE @ Optimizing.com, Data Analyst @ California Air Resources Board, Analyst @ Vestr.io.
+Incoming SWE Intern @ Fidelity Investments.
