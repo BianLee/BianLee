@@ -1,8 +1,10 @@
-2nd Year CS student at University of California, Davis.
+B.S. Computer Science + B.A. Economics @ University of California, Davis
 
 Currently...
+Data Analyst Intern @ California Air Resources Board
+
+Previously...
 <br/>SWE @ Optimizing.com
-<br/>Data Analyst @ California Air Resources Board
 <br/>Analyst @ Vestr.io
 
 This summer...
